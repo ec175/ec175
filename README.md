@@ -17,5 +17,3 @@ Start anywhere in the gallery; each engine's page opens with a preview and a sni
 ---
 
 Videos: [@spectrometry.mp4](https://www.instagram.com/spectrometry.mp4/)
-
-<!-- rl -->
